@@ -1,5 +1,5 @@
 # 💫 About Me:
-Finance professional focused on financial modeling, investment banking, valuation, and financial markets. CFA Level II candidate, currently expanding my skills in SQL, Power BI, and financial analysis.
+A collection of finance projects/analysis.
 
 
 ## 🌐 Socials:
