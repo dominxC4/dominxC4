@@ -1,5 +1,5 @@
 # 💫 About Me:
-A collection of finance projects/analysis.
+Finance | Aspiring Investment Banker | Financial Analysis | CFA Level II Candidate.
 
 
 ## 🌐 Socials:
