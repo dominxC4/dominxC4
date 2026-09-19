@@ -1,5 +1,7 @@
 # 💫 About Me:
-Finance | Aspiring Investment Banker | Financial Analysis | CFA Level II Candidate.
+Finance | Financial Analysis | Financial Modelling | Equity Research | CFA Level II Candidate
+
+📄 **[View My CV](./CV.pdf)**
 
 
 ## 🌐 Socials:
