@@ -3,9 +3,6 @@
 
 Finance | Financial Modelling | Equity Research | Financial Analysis | CFA Level II Candidate
 
-I build independent projects focused on financial modelling, company analysis, valuation, investment research, and quantitative finance.
-
-📄 **[View My CV](./CV.pdf)**
 
 👁️ **Profile Views:**
 ![Profile Views](https://komarev.com/ghpvc/?username=dominxC4\&label=Profile%20Views\&color=0e75b6\&style=flat)
