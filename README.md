@@ -2,9 +2,7 @@
 
 Finance | Financial Modelling | Equity Research | Financial Analysis | CFA Level II Candidate
 
-👁️ **Profile Views:**
 
-![Profile Views](https://komarev.com/ghpvc/?username=dominxC4)
 
 ## 🌐 Socials
 
