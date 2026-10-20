@@ -4,7 +4,7 @@ Finance | Financial Modelling | Equity Research | Financial Analysis | CFA Level
 
 👁️ **Profile Views:**
 
-![Profile Views](https://komarev.com/ghpvc/?username=dominxC4&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dominxC4)
 
 ## 🌐 Socials
 
